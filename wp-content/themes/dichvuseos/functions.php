@@ -56,6 +56,10 @@ function add_theme_option_menu() {
 function register_lptech_menu() {
     //register our settings
     register_setting( 'lptech-themes-settings-group', 'new_option_name' );
+    register_setting( 'lptech-themes-settings-group', 'option_DAHT' );
+    register_setting( 'lptech-themes-settings-group', 'option_DAHD' );
+    register_setting( 'lptech-themes-settings-group', 'option_KHHL' );
+    register_setting( 'lptech-themes-settings-group', 'option_NKN' );
     
 }
 

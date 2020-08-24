@@ -81,36 +81,36 @@
             <div class="fact-box">
               <img src="<?=get_template_directory_uri(); ?>/assets/img/svg/file.svg" alt="svg-icon">
               <span class="counter">
-                2340
+              <?=get_option('option_DAHT') ?>
               </span>
-              <p>Projects Done</p>
+              <p>Dự án đã hoàn thành</p>
             </div>
           </div>
           <div class="col-lg-3  col-md-6 col-sm-12 col-12">
             <div class="fact-box">
               <img src="<?=get_template_directory_uri(); ?>/assets/img/svg/browser.svg" alt="svg-icon">
               <span class="counter">
-                560
+                <?=get_option('option_DAHD')?>
               </span>
-              <p>Active Projects</p>
+              <p>Dự án đang hoạt động</p>
             </div>
           </div>
           <div class="col-lg-3  col-md-6 col-sm-12 col-12">
             <div class="fact-box">
               <img src="<?=get_template_directory_uri(); ?>/assets/img/svg/happy.svg" alt="svg-icon">
               <span class="counter">
-                500
+              <?=get_option('option_KHHL')?>
               </span>
-              <p>Satisfied Clients</p>
+              <p>Khách hàng hài lòng</p>
             </div>
           </div>
           <div class="col-lg-3  col-md-6 col-sm-12 col-12">
             <div class="fact-box">
               <img src="<?=get_template_directory_uri(); ?>/assets/img/svg/cup.svg" alt="svg-icon">
               <span class="counter">
-                3000
+              <?=get_option('option_NKN')?>
               </span>
-              <p>Years Experience</p>
+              <p>Năm kinh nghiệm</p>
             </div>
           </div>
         </div>
