@@ -25,14 +25,14 @@
                       </div>
                       <div class="tabs-address-area">
                         <div class="media">
-                          <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/call.svg" alt="icon">
+                          <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/call.svg" alt="icon">
                           <div class="media-body">
                             <h4>Phone</h4>
                             <p><a href="tel:0963-400-885">0963 400 885</a></p>
                           </div>
                         </div>
                         <div class="media">
-                          <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/pin.svg" alt="icon">
+                          <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/pin.svg" alt="icon">
                           <div class="media-body">
                             <h4>Email</h4>
                             <p><a href="mailto:huyen.dn@lptech.asia">huyen.dn@lptech.asia</a>
@@ -59,14 +59,14 @@
                       </div>
                       <div class="tabs-address-area">
                         <div class="media">
-                          <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/call.svg" alt="icon">
+                          <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/call.svg" alt="icon">
                           <div class="media-body">
                             <h4>Phone</h4>
                             <p><a href="tel:+9454-587-665">+9097 654 1235</a></p>
                           </div>
                         </div>
                         <div class="media">
-                          <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/pin.svg" alt="icon">
+                          <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/pin.svg" alt="icon">
                           <div class="media-body">
                             <h4>Email</h4>
                             <p><a href="mailto:huyen.dn@lptech.asia">huyen.dn@lptech.asia</a>
@@ -92,14 +92,14 @@
                       </div>
                       <div class="tabs-address-area">
                         <div class="media">
-                          <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/call.svg" alt="icon">
+                          <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/call.svg" alt="icon">
                           <div class="media-body">
                             <h4>Phone</h4>
                             <p><a href="tel:0963-400-885">0963 400 885</a></p>
                           </div>
                         </div>
                         <div class="media">
-                          <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/pin.svg" alt="icon">
+                          <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/pin.svg" alt="icon">
                           <div class="media-body">
                             <h4>Email</h4>
                             <p><a href="mailto:huyen.dn@lptech.asia">huyen.dn@lptech.asia</a>
@@ -126,14 +126,14 @@
                       </div>
                       <div class="tabs-address-area">
                         <div class="media">
-                          <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/call.svg" alt="icon">
+                          <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/call.svg" alt="icon">
                           <div class="media-body">
                             <h4>Phone</h4>
                             <p><a href="tel:0963-400-885">0963 400 885</a></p>
                           </div>
                         </div>
                         <div class="media">
-                          <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/pin.svg" alt="icon">
+                          <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/pin.svg" alt="icon">
                           <div class="media-body">
                             <h4>Email</h4>
                             <p><a href="mailto:huyen.dn@lptech.asia">huyen.dn@lptech.asia</a>
@@ -160,14 +160,14 @@
                       </div>
                       <div class="tabs-address-area">
                         <div class="media">
-                          <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/call.svg" alt="icon">
+                          <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/call.svg" alt="icon">
                           <div class="media-body">
                             <h4>Phone</h4>
                             <p><a href="tel:0963-400-885">0963 400 885</a></p>
                           </div>
                         </div>
                         <div class="media">
-                          <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/pin.svg" alt="icon">
+                          <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/pin.svg" alt="icon">
                           <div class="media-body">
                             <h4>Email</h4>
                             <p><a href="mailto:huyen.dn@lptech.asia">huyen.dn@lptech.asia</a>
@@ -211,14 +211,14 @@
                         <div class="footer-collapes-contact">
                           <div class="tabs-address-area">
                             <div class="media">
-                              <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/call.svg" alt="icon">
+                              <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/call.svg" alt="icon">
                               <div class="media-body">
                                 <h4>Phone</h4>
                                 <p><a href="tel:+9454-587-665">+9454 587 6655</a></p>
                               </div>
                             </div>
                             <div class="media">
-                              <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/pin.svg" alt="icon">
+                              <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/pin.svg" alt="icon">
                               <div class="media-body">
                                 <h4>Email</h4>
                                 <p><a href="mailto:karmisheba@gmail.com">karmisheba@gmail.com</a>
@@ -264,14 +264,14 @@
                         <div class="footer-collapes-contact">
                           <div class="tabs-address-area">
                             <div class="media">
-                              <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/call.svg" alt="icon">
+                              <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/call.svg" alt="icon">
                               <div class="media-body">
                                 <h4>Phone</h4>
                                 <p><a href="tel:+9454-587-665">+9454 587 6655</a></p>
                               </div>
                             </div>
                             <div class="media">
-                              <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/pin.svg" alt="icon">
+                              <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/pin.svg" alt="icon">
                               <div class="media-body">
                                 <h4>Email</h4>
                                 <p><a href="mailto:karmisheba@gmail.com">karmisheba@gmail.com</a>
@@ -318,14 +318,14 @@
                         <div class="footer-collapes-contact">
                           <div class="tabs-address-area">
                             <div class="media">
-                              <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/call.svg" alt="icon">
+                              <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/call.svg" alt="icon">
                               <div class="media-body">
                                 <h4>Phone</h4>
                                 <p><a href="tel:+9454-587-665">+9454 587 6655</a></p>
                               </div>
                             </div>
                             <div class="media">
-                              <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/pin.svg" alt="icon">
+                              <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/pin.svg" alt="icon">
                               <div class="media-body">
                                 <h4>Email</h4>
                                 <p><a href="mailto:karmisheba@gmail.com">karmisheba@gmail.com</a>
@@ -371,14 +371,14 @@
                         <div class="footer-collapes-contact">
                           <div class="tabs-address-area">
                             <div class="media">
-                              <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/call.svg" alt="icon">
+                              <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/call.svg" alt="icon">
                               <div class="media-body">
                                 <h4>Phone</h4>
                                 <p><a href="tel:+9454-587-665">+9454 587 6655</a></p>
                               </div>
                             </div>
                             <div class="media">
-                              <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/pin.svg" alt="icon">
+                              <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/pin.svg" alt="icon">
                               <div class="media-body">
                                 <h4>Email</h4>
                                 <p><a href="mailto:karmisheba@gmail.com">karmisheba@gmail.com</a>
@@ -424,14 +424,14 @@
                         <div class="footer-collapes-contact">
                           <div class="tabs-address-area">
                             <div class="media">
-                              <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/call.svg" alt="icon">
+                              <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/call.svg" alt="icon">
                               <div class="media-body">
                                 <h4>Phone</h4>
                                 <p><a href="tel:+9454-587-665">+9454 587 6655</a></p>
                               </div>
                             </div>
                             <div class="media">
-                              <img class="mr-3" src="http://learnphp.com/view/assets/img/svg/pin.svg" alt="icon">
+                              <img class="mr-3" src="<?=get_template_directory_uri(); ?>/assets/img/svg/pin.svg" alt="icon">
                               <div class="media-body">
                                 <h4>Email</h4>
                                 <p>
@@ -531,32 +531,32 @@
 
 
   <!-- jQuery Min JS -->
-  <script src="http://learnphp.com/view/assets/js/jquery.min.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/jquery.min.js"></script>
   <!-- Popper Min JS -->
-  <script src="http://learnphp.com/view/assets/js/popper.min.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/popper.min.js"></script>
   <!-- Bootstrap Min JS -->
-  <script src="http://learnphp.com/view/assets/js/bootstrap.min.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/bootstrap.min.js"></script>
   <!-- jquery-ui  JS -->
-  <script src="http://learnphp.com/view/assets/js/jquery-ui.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/jquery-ui.js"></script>
   <!-- Menu JS -->
-  <script src="http://learnphp.com/view/assets/js/jquery.meanmenu.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/jquery.meanmenu.js"></script>
   <!-- Owl Carousel Min JS -->
-  <script src="http://learnphp.com/view/assets/js/owl.carousel.min.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/owl.carousel.min.js"></script>
   <!--magnific-popup JS -->
-  <script src="http://learnphp.com/view/assets/js/jquery.magnific-popup.min.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/jquery.magnific-popup.min.js"></script>
   <!--venobox JS -->
-  <script src="http://learnphp.com/view/assets/js/venobox.min.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/venobox.min.js"></script>
   <!--typei JS -->
-  <script src="http://learnphp.com/view/assets/js/typed.min.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/typed.min.js"></script>
   <!--Counter JS -->
-  <script src="http://learnphp.com/view/assets/js/purecounter.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/purecounter.js"></script>
   <!-- Isotope.pkgd.min -->
-  <script src="http://learnphp.com/view/assets/js/isotope.pkgd.min.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/isotope.pkgd.min.js"></script>
   <!--waypoints JS -->
-  <script src="http://learnphp.com/view/assets/js/jquery.counterup.min.js"></script>
-  <script src="http://learnphp.com/view/assets/js/waypoint.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/jquery.counterup.min.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/waypoint.js"></script>
   <!-- Main JS -->
-  <script src="http://learnphp.com/view/assets/js/main.js"></script>
+  <script src="<?=get_template_directory_uri(); ?>/assets/js/main.js"></script>
 </footer>
 <?php wp_footer(); ?>
 </body>

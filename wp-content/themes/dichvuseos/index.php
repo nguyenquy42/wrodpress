@@ -43,27 +43,28 @@
       <div class="shap-img">
         <img src="<?=get_template_directory_uri(); ?>/assets/img/home-banner/shap-1.png" alt="img">
       </div>
-</div>
       <div class="container-fluid">
         <div class="row">
-        <?php
-          $mypages = get_pages(['number' => 6]);
-          $i = 0;
-          foreach( $mypages as $page ) {
-              $i++;
-          ?>
-              <div class="<?=$i == 1 ? 'col-lg-6' : ($i == 6 ? 'col-lg-6' : 'col-lg-3')?> col-md-12 col-sm-12 col-12 pad-20">
-                <div class="case-study-box bg-box-<?= $i?> bg-position ovarlay-box-<?= $i?>" >
-                  <h2><a href="<?= get_site_url() .'/'. $page->post_name?>"><?php echo $page->post_title; ?></a></h2>
-                  <?php
-                  //  substr(strip_tags($page->post_content),0,100); 
-                  ?>
-                </div>
-              </div>
-              
           <?php
-              }   
-        ?>
+            $mypages = get_pages(['number' => 6]);
+            $i = 0;
+            foreach( $mypages as $page ) {
+                $i++;
+            ?>
+                <div class="<?=$i == 1 ? 'col-lg-6' : ($i == 6 ? 'col-lg-6' : 'col-lg-3')?> col-md-12 col-sm-12 col-12 pad-20">
+                  <div class="case-study-box bg-box-<?= $i?> bg-position ovarlay-box-<?= $i?>" >
+                    <h2><a href="<?= get_site_url() .'/'. $page->post_name?>"><?php echo $page->post_title; ?></a></h2>
+                    <?php
+                    //  substr(strip_tags($page->post_content),0,100); 
+                    ?>
+                  </div>
+                </div>
+                
+            <?php
+                }   
+          ?>
+        </div>
+      </div>
         
     </section>
     <!-- Case-study Area End -->

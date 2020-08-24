@@ -3,44 +3,44 @@
         <input type="text" class="form-control" placeholder="Serach">
         <i class="fas fa-search"></i>
     </div>
-        <?php  
-            $categories = get_categories();
-            if ( ! empty( $categories ) ) {
-                foreach ($categories as $categorie) {
-                
-        ?>
-        <div class="siderbar-box-wedget">
-            <div class="wedget-heading">
-                <h3><?= $categorie->name?></h3>
-            </div>
-                <div class="popular-post-item">
-                    <ul>
-                        <?php
-                        global $post;
-                    
-                        $myposts = get_posts( array(
-                            'category' =>$categorie->term_id
-                        ) );
-                        if ( $myposts ) {
-                            foreach ( $myposts as $post ) : 
-                                setup_postdata( $post ); ?>
-                                <li class="media">
-                                    <a href="<?php the_permalink(); ?>"><?=get_the_post_thumbnail( get_the_ID(),[85,85]); ?></a>
-                                    <div class="media-body">
-                                    <h5><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h5>
-                                    <div class="post-metas">
-                                        <a href="<?php the_permalink(); ?>">Sep, 26 2019</a>
-                                    </div>
-                                    </div>
-                                </li>
-                            <?php
-                            endforeach;
-                            wp_reset_postdata();
-                        }
-                        ?>
-                    </ul>
-            </div>
+    <?php  
+        $categories = get_categories();
+        if ( ! empty( $categories ) ) {
+            foreach ($categories as $categorie) {
+            
+    ?>
+    <div class="siderbar-box-wedget">
+        <div class="wedget-heading">
+            <h3><?= $categorie->name?></h3>
         </div>
+        <div class="popular-post-item">
+            <ul>
+                <?php
+                global $post;
+            
+                $myposts = get_posts( array(
+                    'category' =>$categorie->term_id
+                ) );
+                if ( $myposts ) {
+                    foreach ( $myposts as $post ) : 
+                        setup_postdata( $post ); ?>
+                        <li class="media">
+                            <a href="<?php the_permalink(); ?>"><?=get_the_post_thumbnail( get_the_ID(),[85,85]); ?></a>
+                            <div class="media-body">
+                            <h5><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h5>
+                            <div class="post-metas">
+                                <a href="<?php the_permalink(); ?>">Sep, 26 2019</a>
+                            </div>
+                            </div>
+                        </li>
+                    <?php
+                    endforeach;
+                    wp_reset_postdata();
+                }
+                ?>
+            </ul>
+        </div>
+    </div>
     <?php 
         }
     }
