@@ -1,0 +1,17 @@
+:root {
+    --color-white: #fff;
+    --heading-color: #232e5e;
+    --paragraph-color: #697193;
+    --pink-color: #ff3066;
+}
+
+/*text color*/
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #231f20;
+}

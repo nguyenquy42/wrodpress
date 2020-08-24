@@ -1,0 +1,1005 @@
+@media (max-width: 1600px) {
+
+    .home-banner-img {
+        right: -6%;
+        width: 56%;
+    }
+
+    .karmi-sheba-nav .navbar {
+        padding-right: 120px;
+        padding-left: 120px;
+    }
+
+    #fixed-techonology-sidebar {
+        width: 20.9375rem;
+    }
+}
+
+@media (max-width: 1440px) {
+    .karmi-sheba-nav .navbar {
+        padding-right: 60px;
+        padding-left: 60px;
+    }
+
+    .karmi-sheba-nav .navbar .navbar-nav .nav-item a {
+        font-size: 16px;
+        margin-left: 15px;
+        margin-right: 5px;
+    }
+
+    .karmi-sheba-nav .navbar .other-option {
+        margin-left: 25px;
+        margin-top: 10px;
+    }
+
+    .other-option .btn {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+
+
+    h1 {
+        font-size: 55px;
+        line-height: 65px;
+    }
+
+    h2 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .home-banner-img {
+        right: 2%;
+        width: 56%;
+    }
+
+    .technology-banner-text h1 {
+        font-size: 80px;
+    }
+
+    .no-payment-area:hover .above {
+        right: -0.25rem;
+    }
+
+    .above {
+        right: 0.375rem;
+    }
+
+}
+
+@media (max-width: 1199px) {
+
+    .case-study-overview-content {
+        padding: 20px 20px;
+    }
+
+    .image-colum .about-clearfix-img .image {
+        max-width: 290px;
+    }
+
+    .image-colum .about-clearfix-img .image:nth-child(2):before {
+        right: 47px;
+        margin-bottom: 16px;
+        margin-right: 8px;
+        border: 33px solid transparent;
+        border-left: 21px solid #f04438;
+        border-bottom: 49px solid #f04438;
+    }
+
+    .image-colum .about-clearfix-img .image:nth-child(1):before {
+        margin-top: 12px;
+        left: 29px;
+        width: 32%;
+        height: 55px;
+    }
+
+    .extrem-service-box {
+        height: 100%;
+    }
+
+    .navbar-brand {
+        width: 16%;
+        margin: 0;
+    }
+
+    .navbar-brand img {
+        width: 100%;
+    }
+
+    .footetr-form-arae {
+        margin-top: 50px;
+        margin-bottom: 55px;
+    }
+
+    .product-area-button a {
+        margin-right: 10px;
+    }
+
+    .error-banner-text h2 {
+        font-size: 45px;
+    }
+
+    .error-banner-text h5 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .above {
+        top: -19.75rem;
+
+    }
+
+    .above {
+        right: 16.625rem;
+    }
+
+    .no-payment-area:hover .above {
+        right: 15rem;
+    }
+
+    .above:before {
+        top: initial;
+        left: 50%;
+        bottom: -.4375rem;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+
+    }
+
+    .padding-right-item {
+        padding-right: 0px;
+    }
+}
+
+@media (max-width: 991px) {
+    .other-option a {
+        text-align: center !important;
+        color: #ffff !important;
+    }
+
+
+    .what-we-do-boxed {
+        margin-bottom: 30px;
+    }
+
+    .better-work-box {
+        margin-bottom: 30px;
+    }
+
+    .other-option {
+        margin: 20px 35px 0 31px;
+        width: auto !important;
+    }
+
+    .footer-soical-icon {
+        text-align: center;
+        margin-top: 5px;
+    }
+
+    .footer-bottom-list-item ul li {
+        padding-bottom: 10px;
+    }
+
+    .footer-bottom-list-item {
+        text-align: center;
+    }
+
+    .home-banner-text-box-inner {
+        width: 100%;
+        padding-top: 40px;
+    }
+
+    .home-banner-inner-area {
+        display: flex;
+        align-items: center;
+        flex-direction: column-reverse;
+        justify-content: flex-end;
+    }
+
+    .shap-img {
+        display: none;
+    }
+
+    #home-case-stady {
+        padding-top: 0px;
+    }
+
+    .case-study-box {
+        height: auto;
+        margin-top: 30px;
+    }
+
+    .home-banner-img {
+        display: none;
+    }
+
+    #home-case-stady .container-fluid .row:nth-child(2) {
+        margin-top: 0px;
+    }
+
+    .our-product-img img {
+        width: 100%;
+    }
+
+    .veido-area-custom img {
+        width: 30%;
+    }
+
+    .home-our-product-details {
+        padding-left: 0;
+        padding-top: 50px;
+    }
+
+    .competenies-box a {
+        display: inherit;
+    }
+
+    .competenies-box {
+        padding: 20px 25px;
+        margin-right: 15px;
+        display: inherit !important;
+        height: 100px;
+    }
+
+    .competenies-box img {
+        width: 20%;
+    }
+
+    .work-processing-box {
+        height: auto;
+        margin-top: 30px;
+    }
+
+    .cta-button {
+        margin-top: 30px;
+    }
+
+    .counter-box-wrapper {
+        margin-bottom: 30px;
+    }
+
+    .heading-content-box p {
+        width: 100%;
+    }
+
+    .logo-area-box {
+        text-align: center;
+        border: 1px solid #fff;
+    }
+
+    #logo-area-home .container .row .col-lg-3:last-child .logo-area-box {
+        border: 1px solid #fff;
+    }
+
+    .work-profile-box {
+        margin-bottom: 30px;
+    }
+
+    #home_banner {
+        padding-top: 140px;
+    }
+
+    .about-heading-box h1 {
+        font-size: 40px;
+        line-height: 54px;
+        font-weight: 500;
+    }
+
+    .about-heading-box h4 {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+
+    .image-colum .about-clearfix-img .image {
+        max-width: 400px;
+    }
+
+    .image-colum .about-clearfix-img .image:nth-child(2):before {
+        right: 0;
+        margin-bottom: 28px;
+        margin-right: 15px;
+        border: 50px solid transparent;
+        border-left: 50px solid #f04438;
+        border-bottom: 50px solid #f04438;
+    }
+
+    .image-colum .about-clearfix-img .image:nth-child(1):before {
+        margin-top: 30px;
+        left: 6px;
+        width: 112px;
+        height: 109px;
+    }
+
+    .about-story-text {
+        margin-top: 40px;
+    }
+
+    .area-img-wrapper {
+        display: none;
+    }
+
+    .fact-box {
+        margin-bottom: 30px;
+    }
+
+    .core-valu-box {
+        margin-bottom: 30px;
+    }
+
+    .get-review-box {
+        flex-wrap: wrap;
+    }
+
+    .get-review-box .get-review-box-width:first-child {
+        width: 100%;
+        text-align: center !important;
+        padding-bottom: 30px;
+    }
+
+    .get-review-box .get-review-box-width:first-child br {
+        display: none;
+    }
+
+    .get-review-box-width {
+        width: 40%;
+    }
+
+    .get-reviews-item {
+        margin-left: 30px;
+        margin-bottom: 15px;
+    }
+
+    .hide-item {
+        display: none;
+    }
+
+    #value-banner {
+        padding: 130px 0 0 0;
+    }
+
+    .trusted-by-text {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .product-tabs-content {
+        margin-top: 40px;
+    }
+
+    #service-prestion .nav-tabs .nav-link.active::after {
+        display: none;
+    }
+
+    .challenge-area-text-start {
+        margin-bottom: 30px;
+    }
+
+    .technical-table-area {
+        margin-bottom: 30px;
+    }
+
+    .case-study-count-box {
+        margin-bottom: 30px;
+    }
+
+    .extrem-service-box {
+        height: auto;
+    }
+
+    .shap-timeline {
+        display: none;
+    }
+
+    #timeline-design-arae .row:nth-child(odd) {
+        flex-direction: column-reverse;
+    }
+
+    .timeline-text-arae {
+        margin-bottom: 40px;
+        margin-top: 40px;
+        height: auto;
+    }
+
+    .agile-help-content {
+        margin-top: 45px;
+    }
+
+    .single-sibebar-wedget {
+        padding-top: 50px;
+    }
+
+    #error-banner .row {
+        flex-direction: column-reverse;
+    }
+
+    .error-banner-img {
+        text-align: center;
+    }
+
+    .error-banner-img {
+        margin-bottom: 40px;
+    }
+
+    .hire-box-wrapper {
+        height: auto;
+        margin-bottom: 30px;
+    }
+
+    #technology-banner .row {
+        flex-direction: column-reverse;
+    }
+
+    .technology-banner-text {
+        padding-top: 100px;
+    }
+
+    .techonology-banner-img {
+        padding-top: 0;
+    }
+
+    #technology-javascript-content {
+        padding: 0 0 120px 0;
+    }
+
+    .react-pricing-box {
+        position: relative;
+        margin-bottom: 40px;
+    }
+
+    #why-python .row {
+        flex-direction: column-reverse;
+    }
+
+    .python-for-web {
+        padding-top: 35px;
+    }
+
+    .python-service-box h3 {
+        line-height: 36px;
+    }
+
+    .python-service-box p {
+        padding-top: 0px;
+    }
+
+    .python-service-box {
+        height: 90%;
+    }
+
+    .business-model-box {
+        margin-bottom: 30px;
+        height: auto;
+    }
+
+    #company-area .row:nth-child(odd) {
+        flex-direction: column-reverse;
+    }
+
+    #table-fullstack table tbody tr td:nth-child(1) {
+        width: 100% !important;
+        float: left;
+        min-width: auto;
+    }
+
+    #table-fullstack table tbody tr {
+        display: block;
+    }
+
+    #table-fullstack table tbody tr td:nth-child(2) {
+        border-bottom: none;
+    }
+
+    .react-banenr-text h4 {
+        font-size: 16px;
+    }
+
+    .front-end-service {
+        margin-bottom: 30px;
+    }
+
+    .quality-text-img {
+        padding-top: 25px;
+        text-align: center;
+    }
+
+    .anmation-shap-1,
+    .anmation-shap-2,
+    .anmation-shap-3,
+    .anmation-rotate-1,
+    .anmation-rotate-2 {
+        display: none;
+    }
+
+    .heading-content-box h2 {
+        line-height: 40px;
+    }
+
+    .blog-item-wrapper {
+        margin-bottom: 30px;
+    }
+
+    .mr-top-30 {
+        margin-top: 0;
+    }
+
+    .office-party-area-img {
+        margin-bottom: 20px;
+    }
+
+    .why-join-boxed {
+        margin-bottom: 20px;
+    }
+
+    .service-boxed-business {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .competencies-button {
+        margin-top: 40px;
+        text-align: center;
+    }
+
+
+
+    .no-payment-area:hover .above {
+        right: 1rem;
+        left: 0;
+        bottom: 120px;
+        top: inherit;
+    }
+
+    .react-banenr-text img {
+        width: 30%;
+    }
+
+    .react-banenr-text h2 {
+        font-size: 40px;
+        line-height: 55px;
+    }
+
+    .home-banner-text-box {
+        height: 56vh;
+    }
+
+    .react-banenr-text p {
+        font-size: 16px;
+        line-height: 26px;
+        padding-top: 25px;
+    }
+
+    .competencies-wrapper-box {
+        display: inherit;
+        margin-top: 30px;
+    }
+
+    .competenies-box {
+        width: auto;
+        height: auto;
+    }
+
+    .competenies-box {
+        margin-bottom: 30px;
+    }
+
+    .competenies-box a {
+        text-align: center;
+    }
+
+    .competenies-box a h6 {
+        margin-top: 20px;
+    }
+
+    .work-profile-img a img {
+        width: 100%;
+    }
+
+    .work-profile-icon img {
+        width: 25% !important;
+    }
+
+    .responsive-none {
+        display: none;
+    }
+
+    .footer-collapese {
+        display: block;
+        margin-top: 65px;
+    }
+
+    h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .shap-img {
+        top: 195px;
+    }
+
+    .image-colum .about-clearfix-img .image {
+        max-width: 315px;
+    }
+
+    .image-colum .about-clearfix-img .image:nth-child(1):before {
+        display: none;
+    }
+
+    .mean-container .mean-bar {
+        padding: 8px 0 0;
+        top: -5px;
+    }
+
+    #trusted-by-partner .owl-carousel .owl-item img {
+        margin: 0 auto;
+    }
+
+    .main-post-metas {
+        display: inherit;
+    }
+
+    .soical-icon-metas {
+        padding-top: 10px;
+    }
+
+    .error-form {
+        margin-top: 30px;
+    }
+
+    .error-area-text {
+        padding-right: 0px;
+    }
+
+    .technology-banner-text h1 {
+        font-size: 60px;
+    }
+
+    .expertise-service-box {
+        margin-bottom: 30px;
+    }
+
+    .table-area .table td,
+    .table-area .table th {
+        width: 100% !important;
+        display: block;
+    }
+
+    .table-area table tr td span {
+        font-size: 12px;
+        margin-right: 20px;
+        padding-right: 21px;
+    }
+
+    .client-review-margin {
+        margin-bottom: 20px;
+    }
+
+}
+
+@media (max-width: 575px) {
+    #accordionExample .card-body .footer-collapes-inner-area {
+        display: inherit;
+    }
+
+    #carrer-banner {
+        padding: 200px 0 220px 0;
+    }
+
+    #accordionExample .card-body .tabs-address-area {
+        padding-left: 0;
+        padding-top: 40px;
+    }
+
+    .product-area-button a {
+        margin-right: 15px;
+    }
+
+    .work-processing-box {
+        display: inherit;
+        text-align: center;
+    }
+
+    .work-process-text {
+        padding-left: 0;
+        padding-top: 30px;
+    }
+
+    .work-proces-img img {
+        width: 50%;
+    }
+
+    #common-banner {
+        padding: 180px 0 110px 0;
+    }
+
+    #our-case-study {
+        padding: 80px 0;
+    }
+
+    .our-case-study-button {
+        margin-top: 0px;
+    }
+
+    .case-study-single-bg {
+        padding: 190px 0 135px 0 !important;
+    }
+
+    #technology-javascript-content,
+    #technology-mobile-content,
+    #technology-framework-content,
+    #technology-web-applicatio-content,
+    #technology-machine-learning-content,
+    #technology-nosql-db-content,
+    #technology-big-data-content,
+    #technology-data-base-content,
+    #technology-cloud-content,
+    #technology-bdd-qa-content,
+    #technology-management-it-consulting-content,
+    #quality-annsurance-text,
+    #quality-assurance-services,
+    #what-do-form-arae,
+    #automated-testing-area,
+    #faqs-content,
+    #technology-expertise,
+    #service-for-business,
+    #better-work-area,
+    #react-deve-service,
+    #pricing-area-react,
+    #company-area,
+    #react-table,
+    #benefits-with-us-aera,
+    #maching-service,
+    #business-model-area,
+    #home_work_processing,
+    #counter-area,
+    #logo-area-home,
+    #work-porfile,
+    #home_cta,
+    #home_competencies,
+    #some-fan-fact,
+    #core-value-arae,
+    #error-content,
+    #contact-content,
+    #useful-link,
+    #get-reviews,
+    #service-prestion,
+    #security-testing-services,
+    #our-extren-service,
+    #functional-test-what-we-do,
+    #career-opportunity,
+    #career-opportunity,
+    #virtual-tour-area,
+    #sitemap-area,
+    #about-our-story,
+    #why-python,
+    #partner-items,
+    #partners-banner-bottom-text,
+    #features-key-area,
+    #overview-arae,
+    #challenges-area,
+    #core-features-arae,
+    #counter-case-single,
+    #agile-help-area,
+    #value-content,
+    #blog-item,
+    #blog-single-area,
+    #privacy-police-content,
+    #why-join-area {
+        padding: 80px 0;
+    }
+
+    .privacy-inner-text h3 {
+        line-height: 40px;
+    }
+
+
+
+    .overview-box-arae-text {
+        padding: 50px 20px;
+    }
+
+    .key-heading p {
+        padding-top: 10px;
+        width: 90%;
+    }
+
+    .single-team {
+        margin-bottom: 30px;
+    }
+
+    #useful-link .row .col-sm-12:last-child .blog-item-wrapper {
+        margin-bottom: 0;
+    }
+
+    #pricing-area-react .row .col-12:last-child .front-end-service {
+        margin-bottom: 0;
+    }
+
+    #business-model-area .row .col-sm-12:last-child .business-model-box {
+        margin-bottom: 0;
+    }
+
+    #partner-items .row .col-12:last-child .partner-item-wrapper {
+        margin-bottom: 0;
+    }
+
+    #value-content .row .col-12:last-child .value-item-box {
+        margin-bottom: 0;
+    }
+
+    #home-our-product {
+        padding-bottom: 80px;
+    }
+
+    #insigths-area {
+        padding: 80px 0 0 0;
+    }
+
+    #our-leader-arae,
+    #home_client_area,
+    #timeline-design-arae,
+    #agile-mindset-banner-bottom {
+        padding: 0 0 80px 0;
+    }
+
+    .btn-theme:after {
+        -webkit-transform: translateX(-165%) translateY(-25%) rotate(45deg);
+        transform: translateX(-165%) translateY(-25%) rotate(45deg);
+        -moz-transform: translateX(-165%) translateY(-25%) rotate(45deg);
+        -ms-transform: translateX(-165%) translateY(-25%) rotate(45deg);
+        -o-transform: translateX(-165%) translateY(-25%) rotate(45deg);
+    }
+
+    .about-story-wrapper {
+        padding-top: 80px;
+    }
+
+    .insight-item {
+        margin-top: 0px;
+    }
+
+    .post-metas-details ul:last-child li {
+        padding-top: 10px;
+    }
+
+    .main-contact-from {
+        padding-top: 35px;
+    }
+
+    .padding-bottom {
+        padding-bottom: 80px !important;
+    }
+
+    h2 {
+        font-size: 24px;
+        line-height: 35px;
+    }
+
+    #technology-banner,
+    #about-client-area {
+        padding: 80px 0 0px 0;
+    }
+
+    .technology-banner-text p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    #maching-banner {
+        padding: 200px 0;
+    }
+
+    .emmployee-list-area,
+    .what-do-client {
+        padding: 80px 0 !important;
+    }
+
+    .about-client-destenation p {
+        font-size: 15px;
+        padding-top: 2px;
+    }
+
+    #testimonial-banner {
+        padding: 220px 0 140px 0;
+    }
+
+    .about-heading-box h1 {
+        font-size: 24px;
+        line-height: 36px;
+        font-weight: 500;
+    }
+
+    .about-heading-box h4 {
+        font-size: 14px;
+        padding-top: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .home-banner-text-box-inner h2 {
+        font-size: 20px;
+        line-height: 38px;
+    }
+
+
+    #home_banner {
+        padding-top: 145px;
+    }
+
+    .home-banner-text-box {
+        height: 54vh;
+    }
+
+    .shap-img {
+        position: absolute;
+        top: 101px;
+    }
+
+    h1 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+
+    .btn {
+        padding: 8px 17px;
+        font-size: 14px;
+    }
+
+    .home-banner-button a {
+        margin-right: 7px;
+    }
+
+    .what-do-form-arae-wrappper h2 {
+        font-size: 20px;
+        line-height: 33px;
+    }
+
+    .client-name-descreption {
+        display: inherit;
+    }
+
+    .client-companey-logo img {
+        width: 75px !important;
+    }
+
+    .client-companey-logo img {
+        margin: 0 auto;
+    }
+
+    #service-prestion .nav-tabs .nav-link {
+        font-size: 20px;
+    }
+
+    .image-colum .about-clearfix-img .image:nth-child(2):before {
+        display: none;
+    }
+
+    .client-name h4 {
+        font-size: 20px;
+    }
+
+    .client-name p {
+        padding-top: 0px;
+        font-size: 14px;
+    }
+
+    .insight-item ul li a {
+        padding: 5px 9px;
+        font-size: 16px;
+    }
+
+    .comment-name-arae {
+        display: inherit;
+    }
+
+    .error-banner-text h2 {
+        font-size: 30px;
+    }
+
+    .technology-banner-text h1 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 361px) {}
