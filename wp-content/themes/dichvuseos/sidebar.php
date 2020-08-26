@@ -11,7 +11,7 @@
     ?>
     <div class="siderbar-box-wedget">
         <div class="wedget-heading">
-            <h3><?= $categorie->name?></h3>
+            <h3> <?= $categorie->name?></h3>
         </div>
         <div class="popular-post-item">
             <ul>
